@@ -4,34 +4,6 @@ Non-commercial shared hardware design and manufacturing files for the custom Ras
 Ebyte E22-900M33S radio module. Software is maintained separately in
 [meshcore-pi-port](https://github.com/emergencyhamnet/meshcore-pi-port).
 
-## Repository Status
-
-This is a repository scaffold. Design files, board photographs, CAD tool/version,
-board revision, and fabrication history have not yet been added or verified here.
-Do not fabricate from this scaffold. No hardware release has been published.
-
-## Add Your Files
-
-| Directory | Contents |
-|---|---|
-| `design/` | Editable schematic/PCB project, required symbols, footprints and libraries |
-| `docs/` | Schematic PDF, pinout, electrical limits and assembly/test instructions |
-| `bom/` | Bill of materials with quantities and manufacturer part numbers |
-| `fabrication/` | Exact fab-submitted ZIP, Gerbers, drill files and placement files |
-| `mechanical/` | STEP models, board outlines and enclosure drawings |
-| `images/` | Board photographs and renders |
-
-Keep the original fabrication package unchanged. Do not mix its files with regenerated
-outputs from a newer design. Preserve the supplier BOM as submitted; the CSV template in
-`bom/` is optional and contains no actual parts.
-
-## Before Publishing
-
-Follow [the build and release checklist](docs/BUILD_AND_RELEASE.md). Record the CAD software
-and version, fitted PCB revision, tested assembly options and any known discrepancies.
-Review [the licence scope and fabrication permission](LICENSING.md) before adding files.
-Do not assume third-party footprints, models or datasheets can be redistributed.
-
 ## Licence
 
 Original project hardware design files, documentation and images use
