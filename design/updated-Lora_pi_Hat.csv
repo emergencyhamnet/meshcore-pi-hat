@@ -1,0 +1,29 @@
+Reference,Qty,Value,,,Description,,,,,,,,,,cost,build Quantity,Total,Price
+"C1,C10,C13,C17,C23,C33",6,4u7,C1746,CL21A475KOFNNNE,Unpolarized capacitor,,,,,,,,,,0.0232,5,30,0.696
+C2,1,1uf,C1592,CL10A105KO8NNNC,Unpolarized capacitor,,,,,,,,,,0.0061,5,5,0.0305
+"C3,C4,C5,C14,C15,C18,C19,C20,C21,C24,C41",11,100nF,C1590,CL10B104KA8NNNC,Unpolarized capacitor,,,,,,,,,,0.0039,5,55,0.2145
+"C6,C7,C8,C9,C11,C12,C16,C22,C25,C26",10,10nF,C1589,CL10B103KB8NNNC,Unpolarized capacitor,,,,,,,,,,0.0038,5,50,0.19
+"D1,D2",2,SS14,C2480,SS14,"40V 1A Schottky Diode, SMA",,,,,,,,,,0.0168,5,10,0.168
+"F1, F2, F3",1,PI Fuse,C210837,MF-MSMF200-2,"Fuse, PTC, Resettable, SMD, 1812, 2.0A Bourns 2A Surface Mount Resettable Fuse, 8 V",,,,,,,,,,0.0741,5,5,0.3705
+FB1,1,Ferrite_Bead,C2442065,28F0181-1SR-10,,,,,,,,,,,0.5512,5,5,2.756
+IC1,1,SHT40-AD1B-R2,C2909890,SHT40-AD1B-R2,"4th Generation, High-Accuracy, Ultra Low Power, 16-Bit Relative Humidity and Temperature Sensor Platform",,,,,,,,,,2.0039,5,5,10.0195
+IC2,1,ADS1015IDGSR,C193969,ADS1015IDGSR,"12-Bit, 3.3kSPS, 4-Ch Delta-Sigma ADC With PGA, Oscillator, VREF, Comparator and I2C Interface",,,,,,,,,,0.0823,5,5,0.4115
+IC3,1,TPS3431SDRBR,C702145,TPS3431SDRBR,Standard Programmable Watchdog Timer With Enable,,,,,,,,,,1.464,5,5,7.32
+J1,1,not fitted,,,Radio Reset,,,,,,,,,,,5,5,0
+J2,1,not fitted,,,JST-B2B,,,,,,,,,,,5,5,0
+J3,1,not fitted,,,JST-B5B,,,,,,,,,,,5,5,0
+J4,1,not fitted,,,JST-B4B,,,,,,,,,,,5,5,0
+J5,1,not fitted,,,GPIO CONNECTOR,,,,,,,,,,,5,5,0
+J6,1,not fitted,,,JST-B2B,,,,,,,,,,,5,5,0
+J7,1,not fitted,,,JST-B2B,,,,,,,,,,,5,5,0
+J8,1,not fitted,,,JST-B6B,,,,,,,,,,,5,5,0
+"Q1,Q2",2,AO3400A,C20917,AO3400A,"30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23",,,,,,,,,,1.7211,5,10,17.211
+"R1,R4",2,4k7,C23162,0603WAF4701T5E,Resistor,,,,,,,,,,0.0014,5,10,0.014
+"R2,R3,R5,R7,R17,R18",6,200,C8218,0603WAF2000T5E,Resistor,,,,,,,,,,0.0016,5,30,0.048
+"R6,R8,R9,R10,R11,R12,R13,R14,R16",9,100k,C14675,RC0603FR-07100KL,Resistor,,,,,,,,,,0.0014,5,45,0.063
+R15,1,249k,C103462,RTT032493FTP,Resistor,,,,,,,,,,0.0015,5,5,0.0075
+"R19,R20",2,not fitted,,,Resistor,,,,,,,,,,,5,10,0
+U1,1,not fitted,,,E22-900M30S LORA RADIO,,,,,,,,,,,5,5,0
+U2,1,LPS22HHTR,C2827824,LPS22HHTR,Presure Sensor,,,,,,,,,,3.0565,5,5,15.2825
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,54.8025
