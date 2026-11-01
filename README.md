@@ -4,6 +4,22 @@ Non-commercial shared hardware design and manufacturing files for the custom Ras
 Ebyte E22-900M33S radio module. Software is maintained separately in
 [meshcore-pi-port](https://github.com/emergencyhamnet/meshcore-pi-port).
 
+## Hardware v1.0
+
+[Hardware v1.0 release record](RELEASE.md) describes the original fabrication package
+and the later PCB source revision. The original package produced working boards with
+hand-soldered fuses; the revised fuse-pad layout has not been fabrication-tested.
+Read the known issues before ordering or assembling boards.
+
+## Design Files
+
+- [KiCad project](design/Lora_pi_Hat.kicad_pro), [schematic](design/Lora_pi_Hat.kicad_sch)
+	and [PCB](design/Lora_pi_Hat.kicad_pcb). The PCB file reports KiCad generator version 10.0.
+- [Schematic PDF](design/circuit.pdf).
+- [Hardware specification, Issue 1.0](design/MeshCore_Pi_HAT_Hardware_Spec_Issue_1_0.rtf).
+- [Updated assembly BOM](design/updated-Lora_pi_Hat.csv); not a complete procurement list.
+- [Original fab-submitted package](fabrication/LORA-PI_HAT-V1.zip), preserved unchanged.
+
 ## Licence
 
 Original project hardware design files, documentation and images use

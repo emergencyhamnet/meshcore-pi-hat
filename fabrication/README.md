@@ -1,5 +1,14 @@
 # Fabrication Files
 
-These are the files submitted for my fab, they contain everything JCL needed and it produced working boars, not all components are lisrttd just those for Fab, the E22 and connectors are omitted from this BOM.
-There is one soft error on this build, the three fuses had the wrong footprint, and this generated a late build issue for the automated pick and place. I gave permission to hand solder the three fuses and all ended well. 
-There is a later verion of the PCB layout with updated fuse pads, this is in the main files but has never been tested at fab. It should be low risk.
+`LORA-PI_HAT-V1.zip` is the original package submitted to the fabrication supplier.
+The project owner reports that it produced working boards. Its BOM covers supplier
+assembly only: the E22 module and connectors are omitted and must be supplied separately.
+
+The three fuses had incorrect footprints for automated assembly. The owner authorised
+hand-soldering those fuses, and the boards were completed using that workaround.
+
+The PCB source in `design/` includes revised fuse pads. That layout has not been tested
+at fabrication and is not the same revision as the original ZIP. Do not assume the
+updated sources and original Gerbers are interchangeable.
+
+See [the release record](../RELEASE.md) for package contents, checksum and known issues.
